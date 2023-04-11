@@ -1,4 +1,4 @@
-`npm I codemail`
+`npm i codemail`
 
 https://www.npmjs.com/package/codemail
 
